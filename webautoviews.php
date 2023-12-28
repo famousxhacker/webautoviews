@@ -98,7 +98,7 @@ echo curl($jnck_url)."\n";
 }
 $end = time()-$start;
 echo "$kuning \n Finish in ".$end." seconds";
-echo "$kuning \n Web anda adalah :  $jnck_url";
+echo "$kuning \n Your website :  $jnck_url";
 echo "$hijau \n Done";
 
 
