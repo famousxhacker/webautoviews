@@ -4,7 +4,7 @@ Welcome to a simple PHP-based tool to increase website views. This tool can be r
 
 **screnshoot:**
 
-![1](https://raw.githubusercontent.com/wanzxploit/bot-visitor/main/visitor.png)
+![rohan banekar](https://github.com/famousxhacker/webautoviews/assets/81895006/4573d8b2-462c-453e-a299-5fb7232c3887)
 
 ### Installation Requirements:
 
