@@ -41,19 +41,19 @@ sudo yum install git php curl
 2. Clone this tool's repository using Git:
 
 ```bash
-git clone https://github.com/wanzxploit/bot-visitor
+git clone https://github.com/famousxhacker/webautoviews
 ```
 
 3. Navigate to the tool's directory with the following command:
 
 ```bash
-cd bot-visitor
+cd webautoviews
 ```
 
 4. Run the tool using the command:
 
 ```bash
-php visitor.php
+php webautoviews.php
 ```
 
 ### Disclaimer:
